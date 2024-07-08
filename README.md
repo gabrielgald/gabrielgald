@@ -3,10 +3,6 @@
 
 - 💻 I’m Cyber Security Analyst
 
-## Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielgald&show_icons=true&theme=radical)
-
-
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWxsM3hzYXcyMGo3MnZxMXN5YzFveGI0Nnk4NDRzemYzdmhoN244NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ojlJqRld77EOAEsRVt/giphy.webp" width="100%">
 
 
@@ -23,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielgald&show_icons=true&theme=radical)
 -->
